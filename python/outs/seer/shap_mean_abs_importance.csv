@@ -1,0 +1,12 @@
+﻿Feature,mean_abs_SHAP
+PNI_binary,0.6135701
+tumor_size_cm,0.341638
+Differentiation_ord,0.2854227
+Location_3group_Proximal colon,0.0936302
+Histology_3group_Adenocarcinoma,0.07338999
+Age,0.06846526
+Location_3group_Rectum,0.05479626
+Sex_binary,0.041609127
+Location_3group_Distal colon,0.03860962
+Histology_3group_Signet ring cell carcinoma,0.024311226
+Histology_3group_Mucinous adenocarcinoma,0.012020718

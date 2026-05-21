@@ -1,0 +1,32 @@
+             Effects              Response : Surv(OSM, OSstatus) 
+
+ Factor                                                   Low High Diff. Effect    S.E.     Lower 0.95 Upper 0.95
+ max_diameter                                             3   5     2     0.106770 0.045919  0.016771   0.196770 
+  Hazard Ratio                                            3   5     2     1.112700       NA  1.016900   1.217500 
+ AgeGroup - <50:>=50                                      1   2    NA    -0.342100 0.046200 -0.432650  -0.251550 
+  Hazard Ratio                                            1   2    NA     0.710280       NA  0.648790   0.777590 
+ Gender - Female:Male                                     2   1    NA    -0.042501 0.035772 -0.112610   0.027611 
+  Hazard Ratio                                            2   1    NA     0.958390       NA  0.893500   1.028000 
+ Location - Distal_colon:Rectum                           1   2    NA    -0.128530 0.044994 -0.216710  -0.040341 
+  Hazard Ratio                                            1   2    NA     0.879390       NA  0.805160   0.960460 
+ Location - Proximal_colon:Rectum                         1   3    NA     0.044171 0.044768 -0.043573   0.131910 
+  Hazard Ratio                                            1   3    NA     1.045200       NA  0.957360   1.141000 
+ Pathology_class - Mucinous_adenocarcinoma:Adenocarcinoma 1   2    NA    -0.069770 0.064261 -0.195720   0.056178 
+  Hazard Ratio                                            1   2    NA     0.932610       NA  0.822240   1.057800 
+ Pathology_class - Signet_ring_cell:Adenocarcinoma        1   3    NA     0.449960 0.113430  0.227630   0.672290 
+  Hazard Ratio                                            1   3    NA     1.568300       NA  1.255600   1.958700 
+ Differentiation - Well:Moderate                          2   1    NA     0.046991 0.186100 -0.317760   0.411740 
+  Hazard Ratio                                            2   1    NA     1.048100       NA  0.727780   1.509400 
+ Differentiation - Poor:Moderate                          2   3    NA     0.349810 0.040699  0.270040   0.429580 
+  Hazard Ratio                                            2   3    NA     1.418800       NA  1.310000   1.536600 
+ LVI - Yes:No                                             1   2    NA     0.603690 0.038039  0.529130   0.678240 
+  Hazard Ratio                                            1   2    NA     1.828800       NA  1.697500   1.970400 
+ PNI - Yes:No                                             1   2    NA     0.538580 0.039009  0.462120   0.615030 
+  Hazard Ratio                                            1   2    NA     1.713600       NA  1.587400   1.849700 
+ pTstage - T1:T4                                          4   1    NA    -1.179700 0.151900 -1.477400  -0.882010 
+  Hazard Ratio                                            4   1    NA     0.307360       NA  0.228220   0.413950 
+ pTstage - T2:T4                                          4   2    NA    -0.696150 0.063636 -0.820870  -0.571420 
+  Hazard Ratio                                            4   2    NA     0.498500       NA  0.440050   0.564720 
+ pTstage - T3:T4                                          4   3    NA    -0.241540 0.041799 -0.323470  -0.159620 
+  Hazard Ratio                                            4   3    NA     0.785420       NA  0.723640   0.852470 
+

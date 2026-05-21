@@ -1,0 +1,26 @@
+﻿Feature,main_effect_mean_abs
+Lymphovasscular invasion,1.1117091
+pTstage,0.31347343
+Perineural invasion,0.29409167
+Pathology_class_0,0.21528511
+Age,0.14607926
+max_diameter,0.137462
+Differentiation,0.07961709
+Gender,0.063656345
+ki67,0.05635438
+Mucinous subtype_Unknown,0.043993916
+Location_1,0.04003932
+Location_3,0.034052867
+Mucinous subtype_0,0.031224038
+KRAS_result_L1_0,0.01895826
+NRAS_result_L1_0,0.017702287
+Pathology_class_1,0.01688641
+Mucinous subtype_1,0.010040031
+KRAS_result_L1_1,0.007936881
+Location_2,0.006713927
+Pathology_class_2,0.0051906114
+BRAF_result_L1_0,0.0033871576
+NRAS_result_L1_1,0.0019043835
+BRAF_result_L1_1,0.00042375605
+Pathology_class_4,0.0
+Pathology_class_3,0.0

@@ -1,0 +1,12 @@
+﻿Feature,Importance
+PNI_binary,0.44326502
+Differentiation_ord,0.095679544
+Histology_3group_Signet ring cell carcinoma,0.07457577
+tumor_size_cm,0.06858198
+Location_3group_Rectum,0.06600874
+Histology_3group_Adenocarcinoma,0.055114303
+Location_3group_Proximal colon,0.049486995
+Age,0.039867163
+Sex_binary,0.03757276
+Location_3group_Distal colon,0.035534643
+Histology_3group_Mucinous adenocarcinoma,0.034313016

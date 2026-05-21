@@ -1,0 +1,26 @@
+﻿Feature,Importance
+Lymphovasscular invasion,0.543471
+Perineural invasion,0.0650076
+Mucinous subtype_Unknown,0.044235554
+pTstage,0.040907852
+Pathology_class_0,0.03687994
+max_diameter,0.01828363
+Mucinous subtype_0,0.01791927
+Differentiation,0.017528845
+Age,0.016662141
+NRAS_result_L1_0,0.016515417
+Pathology_class_1,0.016401667
+NRAS_result_L1_1,0.015373188
+ki67,0.015240103
+Gender,0.01516378
+BRAF_result_L1_1,0.0144553855
+Location_2,0.014314812
+KRAS_result_L1_0,0.014130446
+Location_1,0.014067671
+Location_3,0.0136311995
+Pathology_class_2,0.013380219
+KRAS_result_L1_1,0.012478141
+BRAF_result_L1_0,0.012039984
+Mucinous subtype_1,0.011912224
+Pathology_class_3,0.0
+Pathology_class_4,0.0

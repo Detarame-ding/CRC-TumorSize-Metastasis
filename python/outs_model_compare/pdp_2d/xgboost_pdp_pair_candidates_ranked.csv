@@ -1,0 +1,301 @@
+﻿feature_1,feature_2,interaction_strength,interaction_signed_mean,nunique_1,nunique_2
+Lymphovasscular invasion,max_diameter,0.059130847,-0.0002688444,2,77
+Age,max_diameter,0.048677117,0.011067591,4336,77
+pTstage,max_diameter,0.04254183,-0.020535577,5,77
+Lymphovasscular invasion,pTstage,0.035908654,-9.5719275e-05,2,5
+Lymphovasscular invasion,Age,0.03147382,-0.0010407887,2,4336
+Lymphovasscular invasion,Gender,0.030543279,-0.001082086,2,2
+Age,ki67,0.024784027,0.00013008929,4336,27
+Age,Differentiation,0.023157569,-0.002161742,4336,3
+pTstage,Age,0.021926505,-0.000859428,5,4336
+Age,Mucinous subtype_0,0.021211602,-0.0006420732,4336,2
+Pathology_class_0,KRAS_result_L1_0,0.020452969,-0.0019968757,2,2
+Lymphovasscular invasion,Perineural invasion,0.019182637,-0.001445788,2,2
+Lymphovasscular invasion,Location_1,0.018149933,0.0030006543,2,2
+pTstage,KRAS_result_L1_0,0.015444908,-0.0027282787,5,2
+Lymphovasscular invasion,KRAS_result_L1_0,0.015211879,5.466519e-06,2,2
+Age,KRAS_result_L1_0,0.013957658,0.00064851716,4336,2
+Pathology_class_0,Age,0.013595757,-0.0027780759,2,4336
+Perineural invasion,Pathology_class_0,0.0134719405,-0.0018463335,2,2
+Age,Gender,0.012863477,0.0007086547,4336,2
+Lymphovasscular invasion,Pathology_class_0,0.012759126,-0.0013522687,2,2
+Perineural invasion,KRAS_result_L1_0,0.01260635,0.00036932324,2,2
+Perineural invasion,Age,0.012555636,0.0013635046,2,4336
+Perineural invasion,Gender,0.011918229,-0.00088393467,2,2
+Age,Location_1,0.011889238,0.00034685238,4336,2
+pTstage,Perineural invasion,0.011436844,0.0042867498,5,2
+Perineural invasion,ki67,0.011280613,-0.0013008123,2,27
+max_diameter,Differentiation,0.011172178,0.0039691804,77,3
+max_diameter,KRAS_result_L1_0,0.011113814,-0.00040781774,77,2
+max_diameter,ki67,0.011079238,-2.638797e-06,77,27
+Pathology_class_0,max_diameter,0.010770218,-0.0010408998,2,77
+Perineural invasion,max_diameter,0.0105532,-0.0010228006,2,77
+pTstage,Gender,0.010055709,-0.0009299461,5,2
+ki67,Gender,0.008910993,-0.0010432584,27,2
+Lymphovasscular invasion,ki67,0.008695533,-0.00033956385,2,27
+Pathology_class_0,ki67,0.008429628,-0.002981472,2,27
+max_diameter,Gender,0.0082580745,-0.000556243,77,2
+Age,Location_3,0.007966482,0.0014965117,4336,2
+pTstage,ki67,0.0076188706,0.002585233,5,27
+pTstage,Location_3,0.0075030182,-0.0015941635,5,2
+max_diameter,Location_3,0.0073896814,0.00022266239,77,2
+max_diameter,Location_2,0.007379128,9.814988e-05,77,2
+max_diameter,Location_1,0.0070999027,-0.0014528476,77,2
+max_diameter,Mucinous subtype_0,0.0068937936,0.00068100484,77,2
+Age,Location_2,0.0068729273,-0.00051496143,4336,2
+Lymphovasscular invasion,Location_2,0.0068006963,0.0002182372,2,2
+Pathology_class_0,Differentiation,0.006771991,0.00079404423,2,3
+pTstage,Pathology_class_0,0.0060348273,0.0009747849,5,2
+Lymphovasscular invasion,Differentiation,0.005906887,0.0010315671,2,3
+pTstage,Mucinous subtype_0,0.005656216,0.00043661956,5,2
+Age,Pathology_class_2,0.0056431997,-0.00015963751,4336,2
+max_diameter,Pathology_class_1,0.0053230226,0.00048796032,77,2
+Age,Pathology_class_1,0.005309286,-0.00011806607,4336,2
+ki67,Location_2,0.0052750288,-0.0018415058,27,2
+Pathology_class_0,Location_1,0.0050427956,-0.0003858672,2,2
+pTstage,Location_1,0.0048622335,-0.0007412747,5,2
+Lymphovasscular invasion,Pathology_class_1,0.004676016,0.00058291195,2,2
+Lymphovasscular invasion,Mucinous subtype_0,0.0046683666,0.0006102914,2,2
+ki67,KRAS_result_L1_0,0.0045826985,0.0007971902,27,2
+Pathology_class_0,KRAS_result_L1_1,0.004471332,-0.00022990243,2,2
+ki67,BRAF_result_L1_0,0.004315605,-0.0012690253,27,2
+Perineural invasion,Location_2,0.0040654517,-0.0006992503,2,2
+Differentiation,ki67,0.0040548416,0.00043499202,3,27
+pTstage,Pathology_class_1,0.0039842506,0.00024483635,5,2
+Differentiation,KRAS_result_L1_0,0.003958857,0.000735025,3,2
+ki67,Location_3,0.003957441,-0.0001636655,27,2
+Age,Mucinous subtype_Unknown,0.0037083726,-0.0005101109,4336,2
+Lymphovasscular invasion,Mucinous subtype_Unknown,0.0036374235,-0.00029944122,2,2
+Perineural invasion,Differentiation,0.0035744337,0.00041257474,2,3
+KRAS_result_L1_0,Location_2,0.0035397226,-0.0009876319,2,2
+max_diameter,BRAF_result_L1_0,0.0034287611,0.0019646229,77,2
+pTstage,Differentiation,0.0033962,-0.0014954937,5,3
+Gender,Mucinous subtype_0,0.0033498467,-0.0003572915,2,2
+ki67,NRAS_result_L1_0,0.0032817274,-0.00119675,27,2
+Perineural invasion,KRAS_result_L1_1,0.0032166108,0.000108111526,2,2
+pTstage,Mucinous subtype_Unknown,0.003110144,0.0006485822,5,2
+Location_3,BRAF_result_L1_0,0.003073681,-0.000661117,2,2
+max_diameter,NRAS_result_L1_0,0.0030663277,-0.0005977155,77,2
+Age,KRAS_result_L1_1,0.0030171736,0.00044034302,4336,2
+Mucinous subtype_Unknown,Location_1,0.0030128993,-0.0003306923,2,2
+Differentiation,Pathology_class_2,0.0028124866,-0.0021903445,3,2
+ki67,Location_1,0.0027688937,0.0007066443,27,2
+Age,NRAS_result_L1_0,0.002732828,-9.314807e-05,4336,2
+Lymphovasscular invasion,KRAS_result_L1_1,0.0027239737,0.00026523537,2,2
+KRAS_result_L1_0,Mucinous subtype_0,0.0026755258,5.817624e-05,2,2
+Perineural invasion,Mucinous subtype_0,0.0026743924,0.0007365052,2,2
+Pathology_class_0,Location_2,0.0025502595,-0.00018515332,2,2
+Perineural invasion,Location_1,0.002546849,-0.00027580908,2,2
+Lymphovasscular invasion,Location_3,0.002365674,-7.817397e-05,2,2
+Age,BRAF_result_L1_0,0.002353165,-0.0011057152,4336,2
+Lymphovasscular invasion,Mucinous subtype_1,0.0022875748,0.0012361857,2,2
+Gender,KRAS_result_L1_0,0.0022726476,0.00022365709,2,2
+Age,Mucinous subtype_1,0.0022539212,-0.00013742114,4336,2
+Gender,Location_3,0.0021984046,-0.00043781073,2,2
+Differentiation,Location_2,0.002170726,0.00024516037,3,2
+ki67,BRAF_result_L1_1,0.0021577028,-0.0008870515,27,2
+Perineural invasion,Location_3,0.0021532963,-0.00015677698,2,2
+Perineural invasion,Mucinous subtype_Unknown,0.0021130298,0.00010041133,2,2
+Differentiation,Location_3,0.0020992856,0.0007843449,3,2
+Location_2,Pathology_class_2,0.0020769164,-0.00054297666,2,2
+KRAS_result_L1_0,Mucinous subtype_Unknown,0.001974471,-0.0003869485,2,2
+Gender,Location_2,0.0018991848,-9.85741e-05,2,2
+ki67,Mucinous subtype_0,0.0018782039,-0.00018985604,27,2
+max_diameter,Mucinous subtype_Unknown,0.0018496251,-0.00035408593,77,2
+Differentiation,Location_1,0.0018028885,0.00011766929,3,2
+Differentiation,Gender,0.0017919501,0.000115880124,3,2
+Perineural invasion,NRAS_result_L1_0,0.0016661319,-2.0337964e-05,2,2
+Pathology_class_0,Mucinous subtype_0,0.0015852966,-0.00105181,2,2
+Differentiation,Mucinous subtype_0,0.0014449984,0.0004768165,3,2
+Pathology_class_1,BRAF_result_L1_1,0.0013984697,3.3949913e-05,2,2
+pTstage,Pathology_class_2,0.0013912123,-0.00078634865,5,2
+Pathology_class_0,NRAS_result_L1_0,0.0013203096,-0.000591488,2,2
+Pathology_class_0,Gender,0.0013042516,-0.00020207961,2,2
+pTstage,KRAS_result_L1_1,0.0013001604,-0.00013348475,5,2
+KRAS_result_L1_0,Location_3,0.0012673972,5.1049765e-06,2,2
+max_diameter,KRAS_result_L1_1,0.0011614138,-0.00011698383,77,2
+ki67,NRAS_result_L1_1,0.0011460246,-0.00041132967,27,2
+Lymphovasscular invasion,NRAS_result_L1_0,0.001135189,-2.2508033e-05,2,2
+ki67,Mucinous subtype_Unknown,0.0011189841,-0.00056432845,27,2
+ki67,Pathology_class_1,0.0011128223,-0.00042062704,27,2
+KRAS_result_L1_0,NRAS_result_L1_0,0.0011008806,0.00019039636,2,2
+Differentiation,KRAS_result_L1_1,0.001086788,0.0003051365,3,2
+max_diameter,Mucinous subtype_1,0.001046224,0.00021992189,77,2
+Location_1,NRAS_result_L1_0,0.0010008094,-0.00041453802,2,2
+KRAS_result_L1_0,Location_1,0.0009851899,0.00020863414,2,2
+Pathology_class_0,Location_3,0.000979466,-0.00013003086,2,2
+Age,NRAS_result_L1_1,0.0009638892,-0.0001737732,4336,2
+Differentiation,Pathology_class_1,0.0009612032,0.00020061743,3,2
+Gender,Location_1,0.0009584351,-9.409957e-05,2,2
+Location_1,Pathology_class_2,0.00093066803,-0.0005724546,2,2
+Location_3,Mucinous subtype_1,0.0009202932,0.0003262501,2,2
+Location_3,Mucinous subtype_0,0.0008686732,-3.3305973e-06,2,2
+ki67,KRAS_result_L1_1,0.0008628083,9.4543015e-05,27,2
+max_diameter,NRAS_result_L1_1,0.0008557849,0.00014596383,77,2
+pTstage,NRAS_result_L1_0,0.0008434884,-0.00031254863,5,2
+Differentiation,Mucinous subtype_Unknown,0.00080632675,-0.0002444275,3,2
+Location_1,Location_2,0.00080250326,0.0003669548,2,2
+Mucinous subtype_Unknown,Location_2,0.0007802548,3.9270817e-05,2,2
+Differentiation,BRAF_result_L1_0,0.0006701735,-0.00033282622,3,2
+Location_1,BRAF_result_L1_1,0.0006128365,3.157404e-05,2,2
+pTstage,Location_2,0.0006124602,-0.00015902738,5,2
+KRAS_result_L1_0,Mucinous subtype_1,0.000604355,0.00019088824,2,2
+Differentiation,Mucinous subtype_1,0.00059512886,-0.0004599431,3,2
+Gender,Pathology_class_2,0.000587347,-0.00011318432,2,2
+max_diameter,Pathology_class_2,0.00055672263,-7.124201e-05,77,2
+Pathology_class_0,BRAF_result_L1_0,0.0005561932,0.00013741532,2,2
+Gender,KRAS_result_L1_1,0.00055616593,0.00011210437,2,2
+Gender,Mucinous subtype_1,0.0005139674,-7.9547455e-05,2,2
+Gender,Pathology_class_1,0.0005020063,-4.8643687e-05,2,2
+max_diameter,BRAF_result_L1_1,0.00049855234,0.00010771921,77,2
+pTstage,Mucinous subtype_1,0.00049209234,-6.21998e-05,5,2
+Location_3,Pathology_class_2,0.00044805105,0.00025582782,2,2
+Lymphovasscular invasion,BRAF_result_L1_0,0.0004223933,0.00024554125,2,2
+Location_1,BRAF_result_L1_0,0.00040370613,0.000102010235,2,2
+Gender,Mucinous subtype_Unknown,0.0004017285,-4.6254103e-05,2,2
+Lymphovasscular invasion,Pathology_class_2,0.00039865964,-0.00019948663,2,2
+NRAS_result_L1_0,Location_2,0.0003889307,-6.938337e-05,2,2
+KRAS_result_L1_0,Pathology_class_1,0.00038172246,-7.4963566e-05,2,2
+Pathology_class_1,BRAF_result_L1_0,0.00036359072,-4.1773954e-05,2,2
+pTstage,BRAF_result_L1_0,0.0003452951,9.3393915e-05,5,2
+Age,BRAF_result_L1_1,0.00033475057,-0.00019498398,4336,2
+Perineural invasion,Mucinous subtype_1,0.00032357438,-0.00011852233,2,2
+Gender,BRAF_result_L1_0,0.0003037001,4.3685748e-05,2,2
+Perineural invasion,Pathology_class_1,0.0002933522,-5.001509e-05,2,2
+Location_1,Pathology_class_1,0.00028468197,-6.2646155e-05,2,2
+Perineural invasion,NRAS_result_L1_1,0.0002798505,3.1360563e-05,2,2
+Mucinous subtype_0,Pathology_class_2,0.0002756592,0.00016944784,2,2
+Location_3,BRAF_result_L1_1,0.0002584963,-3.840303e-05,2,2
+Mucinous subtype_0,NRAS_result_L1_0,0.0002511379,-8.596712e-05,2,2
+Pathology_class_0,NRAS_result_L1_1,0.00024316733,-4.892354e-05,2,2
+ki67,Mucinous subtype_1,0.00023945492,0.000100628175,27,2
+Pathology_class_0,Pathology_class_2,0.00023262747,-0.00010164771,2,2
+Location_1,Location_3,0.00021310463,0.00014195775,2,2
+KRAS_result_L1_0,Pathology_class_2,0.00020382655,2.9897146e-05,2,2
+ki67,Pathology_class_2,0.00020180098,2.8773897e-05,27,2
+Mucinous subtype_Unknown,Location_3,0.00018961607,-9.927684e-06,2,2
+Pathology_class_0,Mucinous subtype_1,0.00018545485,-0.00015970539,2,2
+pTstage,NRAS_result_L1_1,0.00017032071,-1.7822069e-05,5,2
+Location_2,Mucinous subtype_1,0.00016912748,-4.1810643e-05,2,2
+Location_3,Pathology_class_1,0.00016195924,2.7753397e-06,2,2
+Perineural invasion,BRAF_result_L1_0,0.0001389489,1.2085492e-05,2,2
+Location_3,NRAS_result_L1_0,0.00013812084,-4.6882797e-05,2,2
+Perineural invasion,Pathology_class_2,0.0001350605,3.580616e-05,2,2
+Location_1,Mucinous subtype_1,0.00013300386,6.464031e-05,2,2
+Location_2,BRAF_result_L1_0,9.828736e-05,-4.3526958e-05,2,2
+Gender,NRAS_result_L1_0,8.524355e-05,-5.552358e-06,2,2
+Location_1,Mucinous subtype_0,7.857165e-05,3.2685384e-05,2,2
+Pathology_class_0,BRAF_result_L1_1,7.29208e-05,-1.4384815e-05,2,2
+Pathology_class_1,NRAS_result_L1_1,7.233277e-05,-3.5895326e-05,2,2
+Mucinous subtype_0,Location_2,6.7166875e-05,2.7789234e-05,2,2
+Location_2,KRAS_result_L1_1,6.217107e-05,3.9473434e-05,2,2
+Location_2,BRAF_result_L1_1,5.198392e-05,2.9533443e-05,2,2
+Lymphovasscular invasion,NRAS_result_L1_1,4.1358606e-05,4.654148e-06,2,2
+Differentiation,NRAS_result_L1_1,3.9322138e-05,-5.478457e-07,3,2
+Location_3,NRAS_result_L1_1,3.6982525e-05,9.621587e-06,2,2
+BRAF_result_L1_0,Pathology_class_2,2.9539888e-05,-1.8441526e-05,2,2
+Location_1,KRAS_result_L1_1,2.8821218e-05,5.5987475e-06,2,2
+Mucinous subtype_1,BRAF_result_L1_0,2.1945574e-05,1.790406e-05,2,2
+Pathology_class_2,NRAS_result_L1_1,2.0037982e-05,1.12559255e-05,2,2
+Pathology_class_1,Pathology_class_2,1.9130306e-05,-7.788965e-06,2,2
+KRAS_result_L1_0,BRAF_result_L1_1,1.3073509e-05,6.6252223e-06,2,2
+NRAS_result_L1_0,Pathology_class_2,1.0721815e-05,-7.344912e-06,2,2
+Differentiation,NRAS_result_L1_0,9.806615e-06,2.638152e-06,3,2
+Differentiation,BRAF_result_L1_1,6.7639803e-06,-2.2302424e-06,3,2
+Gender,BRAF_result_L1_1,0.0,0.0,2,2
+Gender,NRAS_result_L1_1,0.0,0.0,2,2
+NRAS_result_L1_0,Pathology_class_4,0.0,0.0,2,2
+ki67,Pathology_class_4,0.0,0.0,27,2
+Location_2,NRAS_result_L1_1,0.0,0.0,2,2
+NRAS_result_L1_0,Pathology_class_3,0.0,0.0,2,2
+KRAS_result_L1_0,BRAF_result_L1_0,0.0,0.0,2,2
+NRAS_result_L1_0,BRAF_result_L1_1,0.0,0.0,2,2
+NRAS_result_L1_0,NRAS_result_L1_1,0.0,0.0,2,2
+Location_2,Pathology_class_3,0.0,0.0,2,2
+NRAS_result_L1_0,BRAF_result_L1_0,0.0,0.0,2,2
+NRAS_result_L1_0,Mucinous subtype_1,0.0,0.0,2,2
+NRAS_result_L1_0,KRAS_result_L1_1,0.0,0.0,2,2
+Gender,Pathology_class_4,0.0,0.0,2,2
+Pathology_class_1,Pathology_class_3,0.0,0.0,2,2
+Pathology_class_1,Pathology_class_4,0.0,0.0,2,2
+Pathology_class_0,Pathology_class_4,0.0,0.0,2,2
+Gender,Pathology_class_3,0.0,0.0,2,2
+Location_2,Pathology_class_4,0.0,0.0,2,2
+KRAS_result_L1_1,NRAS_result_L1_1,0.0,0.0,2,2
+KRAS_result_L1_1,Mucinous subtype_1,0.0,0.0,2,2
+BRAF_result_L1_0,BRAF_result_L1_1,0.0,0.0,2,2
+BRAF_result_L1_1,Pathology_class_3,0.0,0.0,2,2
+BRAF_result_L1_1,Pathology_class_4,0.0,0.0,2,2
+NRAS_result_L1_1,Pathology_class_3,0.0,0.0,2,2
+NRAS_result_L1_1,Pathology_class_4,0.0,0.0,2,2
+NRAS_result_L1_1,BRAF_result_L1_1,0.0,0.0,2,2
+Pathology_class_2,Pathology_class_3,0.0,0.0,2,2
+Pathology_class_2,Pathology_class_4,0.0,0.0,2,2
+Pathology_class_2,BRAF_result_L1_1,0.0,0.0,2,2
+BRAF_result_L1_0,Pathology_class_3,0.0,0.0,2,2
+BRAF_result_L1_0,Pathology_class_4,0.0,0.0,2,2
+BRAF_result_L1_0,NRAS_result_L1_1,0.0,0.0,2,2
+KRAS_result_L1_1,BRAF_result_L1_0,0.0,0.0,2,2
+Mucinous subtype_1,Pathology_class_3,0.0,0.0,2,2
+Mucinous subtype_1,Pathology_class_4,0.0,0.0,2,2
+Mucinous subtype_1,BRAF_result_L1_1,0.0,0.0,2,2
+Mucinous subtype_1,NRAS_result_L1_1,0.0,0.0,2,2
+Mucinous subtype_1,Pathology_class_2,0.0,0.0,2,2
+KRAS_result_L1_1,Pathology_class_3,0.0,0.0,2,2
+KRAS_result_L1_1,Pathology_class_4,0.0,0.0,2,2
+KRAS_result_L1_1,BRAF_result_L1_1,0.0,0.0,2,2
+Pathology_class_1,Mucinous subtype_1,0.0,0.0,2,2
+KRAS_result_L1_1,Pathology_class_2,0.0,0.0,2,2
+Pathology_class_0,Pathology_class_3,0.0,0.0,2,2
+Mucinous subtype_0,Pathology_class_3,0.0,0.0,2,2
+Pathology_class_1,KRAS_result_L1_1,0.0,0.0,2,2
+Mucinous subtype_Unknown,NRAS_result_L1_1,0.0,0.0,2,2
+pTstage,Pathology_class_3,0.0,0.0,5,2
+Differentiation,Pathology_class_3,0.0,0.0,3,2
+pTstage,Pathology_class_4,0.0,0.0,5,2
+pTstage,BRAF_result_L1_1,0.0,0.0,5,2
+Differentiation,Pathology_class_4,0.0,0.0,3,2
+KRAS_result_L1_0,KRAS_result_L1_1,0.0,0.0,2,2
+max_diameter,Pathology_class_4,0.0,0.0,77,2
+Mucinous subtype_Unknown,Pathology_class_3,0.0,0.0,2,2
+Mucinous subtype_Unknown,Pathology_class_4,0.0,0.0,2,2
+Mucinous subtype_Unknown,BRAF_result_L1_1,0.0,0.0,2,2
+Mucinous subtype_Unknown,Pathology_class_2,0.0,0.0,2,2
+Location_1,NRAS_result_L1_1,0.0,0.0,2,2
+Mucinous subtype_Unknown,BRAF_result_L1_0,0.0,0.0,2,2
+Mucinous subtype_Unknown,Mucinous subtype_1,0.0,0.0,2,2
+Mucinous subtype_Unknown,KRAS_result_L1_1,0.0,0.0,2,2
+max_diameter,Pathology_class_3,0.0,0.0,77,2
+Mucinous subtype_Unknown,NRAS_result_L1_0,0.0,0.0,2,2
+Mucinous subtype_Unknown,Pathology_class_1,0.0,0.0,2,2
+Mucinous subtype_Unknown,Mucinous subtype_0,0.0,0.0,2,2
+KRAS_result_L1_0,Pathology_class_3,0.0,0.0,2,2
+KRAS_result_L1_0,Pathology_class_4,0.0,0.0,2,2
+KRAS_result_L1_0,NRAS_result_L1_1,0.0,0.0,2,2
+Age,Pathology_class_3,0.0,0.0,4336,2
+Age,Pathology_class_4,0.0,0.0,4336,2
+Pathology_class_1,Location_2,0.0,0.0,2,2
+Mucinous subtype_0,Pathology_class_1,0.0,0.0,2,2
+Pathology_class_1,NRAS_result_L1_0,0.0,0.0,2,2
+Mucinous subtype_0,Pathology_class_4,0.0,0.0,2,2
+Mucinous subtype_0,BRAF_result_L1_1,0.0,0.0,2,2
+Mucinous subtype_0,NRAS_result_L1_1,0.0,0.0,2,2
+Pathology_class_0,Pathology_class_1,0.0,0.0,2,2
+Mucinous subtype_0,BRAF_result_L1_0,0.0,0.0,2,2
+Mucinous subtype_0,Mucinous subtype_1,0.0,0.0,2,2
+Mucinous subtype_0,KRAS_result_L1_1,0.0,0.0,2,2
+ki67,Pathology_class_3,0.0,0.0,27,2
+Pathology_class_0,Mucinous subtype_Unknown,0.0,0.0,2,2
+Location_3,Pathology_class_3,0.0,0.0,2,2
+Location_1,Pathology_class_4,0.0,0.0,2,2
+Location_3,Pathology_class_4,0.0,0.0,2,2
+Perineural invasion,Pathology_class_3,0.0,0.0,2,2
+Perineural invasion,Pathology_class_4,0.0,0.0,2,2
+Perineural invasion,BRAF_result_L1_1,0.0,0.0,2,2
+Location_3,KRAS_result_L1_1,0.0,0.0,2,2
+Location_3,Location_2,0.0,0.0,2,2
+Lymphovasscular invasion,BRAF_result_L1_1,0.0,0.0,2,2
+Lymphovasscular invasion,Pathology_class_4,0.0,0.0,2,2
+Lymphovasscular invasion,Pathology_class_3,0.0,0.0,2,2
+Location_1,Pathology_class_3,0.0,0.0,2,2
+Pathology_class_4,Pathology_class_3,0.0,0.0,2,2

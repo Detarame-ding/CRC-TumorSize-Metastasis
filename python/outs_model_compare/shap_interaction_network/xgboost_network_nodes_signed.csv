@@ -1,0 +1,16 @@
+﻿Feature,mean_abs_shap
+Lymphovasscular invasion,1.0537839
+pTstage,0.3223741
+Perineural invasion,0.2796969
+Pathology_class_0,0.21968319
+Age,0.18632948
+max_diameter,0.15582523
+Differentiation,0.07881985
+ki67,0.0719199
+Gender,0.068220675
+KRAS_result_L1_0,0.044756744
+Mucinous subtype_Unknown,0.044725504
+Location_1,0.04086399
+Location_3,0.038519576
+Mucinous subtype_0,0.035877906
+Pathology_class_1,0.017655464
